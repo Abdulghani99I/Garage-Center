@@ -1,0 +1,17 @@
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\GC.csproj.AssemblyReference.cache
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.ctrlHeader.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.ctrlNumricUpDown.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmAddUpdateClient.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.Forms.frmExportToExcel.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmSettings.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmShowListClients.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmMessageBox.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.Properties.Resources.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmShowCardClient.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmAddUpdateClient.ar.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.frmShowListClients.ar.resources
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\GC.csproj.GenerateResource.cache
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\GC.csproj.CoreCompileInputs.cache
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ar\ManagementCars.resources.dll
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.exe
+D:\FileCPP\ProjectGC\GarageCenter\obj\ARM64\Debug\ManagementCars.pdb

@@ -1,0 +1,9 @@
+D:\FileCPP\CopyProjectGC\GC_Business\bin\Debug\clsClient.dll
+D:\FileCPP\CopyProjectGC\GC_Business\bin\Debug\clsClient.pdb
+D:\FileCPP\CopyProjectGC\GC_Business\bin\Debug\clsClientData.dll
+D:\FileCPP\CopyProjectGC\GC_Business\bin\Debug\clsClientData.pdb
+D:\FileCPP\CopyProjectGC\GC_Business\obj\Debug\GC_Buisness.csproj.AssemblyReference.cache
+D:\FileCPP\CopyProjectGC\GC_Business\obj\Debug\GC_Buisness.csproj.CoreCompileInputs.cache
+D:\FileCPP\CopyProjectGC\GC_Business\obj\Debug\GC_Buisness.csproj.CopyComplete
+D:\FileCPP\CopyProjectGC\GC_Business\obj\Debug\clsClient.dll
+D:\FileCPP\CopyProjectGC\GC_Business\obj\Debug\clsClient.pdb

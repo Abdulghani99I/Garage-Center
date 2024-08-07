@@ -1,0 +1,6 @@
+D:\FileCPP\ProjectGC\clsClientData\bin\ARM64\Debug\clsClientData.dll
+D:\FileCPP\ProjectGC\clsClientData\bin\ARM64\Debug\clsClientData.pdb
+D:\FileCPP\ProjectGC\clsClientData\obj\ARM64\Debug\GC_DataAccess.csproj.AssemblyReference.cache
+D:\FileCPP\ProjectGC\clsClientData\obj\ARM64\Debug\GC_DataAccess.csproj.CoreCompileInputs.cache
+D:\FileCPP\ProjectGC\clsClientData\obj\ARM64\Debug\clsClientData.dll
+D:\FileCPP\ProjectGC\clsClientData\obj\ARM64\Debug\clsClientData.pdb
