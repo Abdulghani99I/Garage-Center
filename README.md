@@ -1,1 +1,1 @@
-# GarageCenter
+# GitGarageCenter
