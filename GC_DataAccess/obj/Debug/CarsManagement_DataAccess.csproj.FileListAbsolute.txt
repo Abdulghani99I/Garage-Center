@@ -1,6 +1,0 @@
-D:\FileCPP\clsClientData\bin\Debug\clsClientData.dll
-D:\FileCPP\clsClientData\bin\Debug\clsClientData.pdb
-D:\FileCPP\clsClientData\obj\Debug\CarsManagement_DataAccess.csproj.AssemblyReference.cache
-D:\FileCPP\clsClientData\obj\Debug\CarsManagement_DataAccess.csproj.CoreCompileInputs.cache
-D:\FileCPP\clsClientData\obj\Debug\clsClientData.dll
-D:\FileCPP\clsClientData\obj\Debug\clsClientData.pdb
